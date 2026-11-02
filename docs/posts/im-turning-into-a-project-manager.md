@@ -19,7 +19,7 @@ So the next evolution of my career is happening right now. This time it’s not 
 
 I find myself turning into a project manager.
 
-I’m running an Open Project (open source JIRA alternative) instance on my NAS to track the stuff I’m (well, my agents) actually working on. I even slopped together an [OpenProject Agent Engine](https://github.com/310networks/openproject-agent-engine) that polls for new tasks I’ve tagged an Agent in and kicks the agent off and manages the workflow. Handles everything from development and code review, to merge and releases.
+I’m running an OpenProject (open source JIRA alternative) instance on my NAS to track the stuff I’m (well, my agents. How do you phrase it? Are you still building things?) actually working on. I even slopped together an [OpenProject Agent Engine](https://github.com/310networks/openproject-agent-engine) that polls for new tasks I’ve tagged an Agent in and kicks the agent off and manages the workflow. Handles everything from development and code review, to merge and releases.
 
 ![op-agent-engine](/assets/img/op-agent-engine-demo.gif)
 
