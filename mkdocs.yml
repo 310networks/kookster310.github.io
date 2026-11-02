@@ -17,6 +17,7 @@ nav:
   - Home: index.md
   - Posts:
       - Overview: posts/index.md
+      - I'm turning into a Project Manager: posts/im-turning-into-a-project-manager.md
       - Hawaii's Bake Stands: posts/hawaiis-bake-stands.md
       - I'm Now "Writing" My Blog: posts/im-now-writing-my-blog.md
       - Moving from Discord to a self hosted Matrix Server: posts/moving-from-discord-to-selfhosted-matrix.md
